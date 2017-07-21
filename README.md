@@ -1,7 +1,6 @@
 # IA-Proyecto
 ## Proyecto de IA
-Integrantes:
----
+** Integrantes:**
 * Aizaga Steven
 * Calvopiña Adrián
 * Rosero Johana
